@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        writeTextToFile("products.txt", "We are having so much fun!\n");
+        writeTextToFile("products.txt", "This is the next update at 1:50pm\n");
 
         StringBuilder output = readTextFile("products.txt");
 
